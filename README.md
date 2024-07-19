@@ -8,7 +8,7 @@
   <h2 align="center">TikTok Automator Bot UPDATED 5.7.24 </h3>
 
   <p align="center">
-    TikTok automator using zefoy.com for <b>followers, views, likes, shares and more</b>
+    TikTok automator using zefoy.com for <b>followers, views, likes, shares. and more</b>
     <br />
     <br />
     <a href="https://discord.gg/KRjZ58MfDD">Join New Discord Server</a>
