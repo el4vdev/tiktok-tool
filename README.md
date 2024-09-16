@@ -5,10 +5,10 @@
     <img src="https://www.edigitalagency.com.au/wp-content/uploads/TikTok-icon-glyph.png" alt="Logo" width="120" height="120">
   </a>
   
-  <h2 align="center">TikTok Automator Bot UPDATED 5.7.24 </h3>
+  <h2 align="center">TikTok Automator Bot UPDATED 17.9.24 </h3>
 
   <p align="center">
-    TikTok automator using zefoy.com for <b>followers, views, likes, shares. and more</b>
+    TikTok automator using zefoy.com for <b>followers, views, likes, shares. and MANYYY more</b>
     <br />
     <br />
     <a href="https://discord.gg/KRjZ58MfDD">Join New Discord Server</a>
